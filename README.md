@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**sassiwalid/sassiwalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Walid SASSI, a passionate software developer focused on building scalable solutions and enhancing developer productivity. My work centers on:
 
-Here are some ideas to get you started:
+- **Software Architecture**: Designing clean, maintainable, and modular systems.
+- **Distributed Systems**: Exploring scalability, fault tolerance, and system design.
+- **Development Tools**: Crafting tools to streamline workflows and improve productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- 🖥️ Website: [Walid SASSI Blog](https://walidsassi.com)
+- 💼 LinkedIn: [My Linkedin](https://linkedin.com/in/sassi-walid)
+
+## 🛠️ Technical Skills
+- **Languages**: Swift, Objective-C, Java.
+- **Frameworks**: RxSwift, SwiftUI, Combine.
+- **Focus Areas**: Distributed architectures, Clean Architecture, CI/CD.
+
+Thank you for stopping by! Let's build something amazing together. 😊
