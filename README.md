@@ -10,6 +10,10 @@ I’m Walid SASSI, a passionate software developer focused on building scalable 
 - 🖥️ Website: [Walid SASSI Blog](https://walidsassi.com)
 - 💼 LinkedIn: [My Linkedin](https://linkedin.com/in/sassi-walid)
 
+## 🎙️ My Content
+- 🎥 **YouTube Channel**: [Swift With Walid](https://www.youtube.com/@SwiftWithWalid)
+- 🎙️ **Podcast**: [Swift Academy](https://podcasts.apple.com/fr/podcast/swift-academy-the-podcast/id1730260283)
+
 ## 🛠️ Technical Skills
 - **Languages**: Swift, Objective-C, Java.
 - **Frameworks**: RxSwift, SwiftUI, Combine.
