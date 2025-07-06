@@ -9,6 +9,7 @@ I’m Walid SASSI, a passionate software developer focused on building scalable 
 ## 🌐 Connect with Me
 - 🖥️ Website: [Walid SASSI Blog](https://walidsassi.com)
 - 💼 LinkedIn: [My Linkedin](https://linkedin.com/in/sassi-walid)
+- [Swifttribune Blog](https://swifttribune.walidsassi.com)
 
 ## 🎙️ My Content
 - 🎥 **YouTube Channel**: [Swift With Walid](https://www.youtube.com/@SwiftWithWalid)
