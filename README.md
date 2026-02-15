@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I’m Walid SASSI, a passionate software developer focused on building scalable solutions and enhancing developer productivity. My work centers on:
+I’m Walid SASSI, a Tunisian software developer, a father of three, and resident of Picardie, France. My work centers on:
 
 - **Software Architecture**: Designing clean, maintainable, and modular systems.
 - **Distributed Systems**: Exploring scalability, fault tolerance, and system design.
