@@ -11,6 +11,8 @@ I’m Walid SASSI, a Tunisian software developer, a father of three, and residen
 - 💼 LinkedIn: [My Linkedin](https://linkedin.com/in/sassi-walid)
 - [Swifttribune Blog](https://swifttribune.walidsassi.com)
 
+[![AI Driven Swift Architecture](assets/ai-driven-swift-architecture-book.png)](https://www.walidsassi.com)
+
 ## 🎙️ My Content
 - 🎥 **YouTube Channel**: [Swift With Walid](https://www.youtube.com/@SwiftWithWalid)
 - 🎙️ **Podcast**: [Swift Academy](https://podcasts.apple.com/fr/podcast/swift-academy-the-podcast/id1730260283)
