@@ -1,25 +1,51 @@
-# 👋 Welcome to My GitHub Profile!
+<p align="center">
+  <h1>Walid SASSI</h1>
+  <p>iOS Tech Lead • Software Architecture • Distributed Systems</p>
+</p>
 
-I’m Walid SASSI, a Tunisian software developer, a father of three, and resident of Picardie, France. My work centers on:
+<p align="center">
+  <a href="https://www.walidsassi.com">
+    <img src="assets/ai-driven-swift-architecture-book.png" width="200"/>
+  </a>
+</p>
 
-- **Software Architecture**: Designing clean, maintainable, and modular systems.
-- **Distributed Systems**: Exploring scalability, fault tolerance, and system design.
-- **Development Tools**: Crafting tools to streamline workflows and improve productivity.
+<p align="center">
+  <b>AI-Driven Swift Architecture</b><br/>
+  Designing scalable and modern iOS systems.
+</p>
 
-## 🌐 Connect with Me
-- 🖥️ Website: [Walid SASSI Blog](https://walidsassi.com)
-- 💼 LinkedIn: [My Linkedin](https://linkedin.com/in/sassi-walid)
-- [Swifttribune Blog](https://swifttribune.walidsassi.com)
+---
 
-[![AI Driven Swift Architecture](assets/ai-driven-swift-architecture-book.png)](https://www.walidsassi.com)
+## About
 
-## 🎙️ My Content
-- 🎥 **YouTube Channel**: [Swift With Walid](https://www.youtube.com/@SwiftWithWalid)
-- 🎙️ **Podcast**: [Swift Academy](https://podcasts.apple.com/fr/podcast/swift-academy-the-podcast/id1730260283)
+iOS Tech Lead based in France 🇫🇷.  
+I focus on building scalable, maintainable systems and improving developer experience.
 
-## 🛠️ Technical Skills
-- **Languages**: Swift, Objective-C, Java.
-- **Frameworks**: RxSwift, SwiftUI, Combine.
-- **Focus Areas**: Distributed architectures, Clean Architecture, CI/CD.
+---
 
-Thank you for stopping by! Let's build something amazing together. 😊
+## Focus
+
+- Software Architecture  
+- Distributed Systems  
+- Developer Tooling  
+
+---
+
+## Content
+
+- Swift Academy (Podcast)  
+- Swift With Walid (YouTube)  
+
+---
+
+## Links
+
+- https://walidsassi.com  
+- https://linkedin.com/in/sassi-walid  
+- https://swifttribune.walidsassi.com  
+
+---
+
+<p align="center">
+  <sub>Building clean systems, one abstraction at a time.</sub>
+</p>
