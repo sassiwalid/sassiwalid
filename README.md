@@ -11,8 +11,11 @@
 
 <p align="center">
   <b>Sindri</b><br/>
-  A native macOS app for Apple platform developers.<br/>
-  Find what’s wrong with your signing, Xcode installs and releases before the build does.
+  The complete toolbox for iOS and macOS developers, in one native Mac app.
+</p>
+
+<p align="center">
+  Signing • Certificates • Xcode versions • Swift Preview • SwiftUI Analyzer • Releases • Reminders
 </p>
 
 <p align="center">
@@ -24,13 +27,13 @@
   <a href="https://getsindri.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/sindri-overview-dark.png"/>
-      <img src="assets/sindri-overview-light.png" width="720" alt="Sindri’s Overview: one card per tool, showing the state of signing, Xcode and releases"/>
+      <img src="assets/sindri-overview-light.png" width="720" alt="Sindri’s Overview: one card per tool, from signing and Xcode versions to SwiftUI analysis and releases"/>
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <sub>Signing and Certificates are free • macOS 15 or later • Apple silicon and Intel</sub>
+  <sub>Free to start, every Pro tool on a 14-day trial • macOS 15 or later • Apple silicon and Intel</sub>
 </p>
 
 ---
